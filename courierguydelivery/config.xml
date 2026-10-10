@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>courierguydelivery</name>
+  <displayName><![CDATA[The Courier Guy Delivery]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[One compact The Courier Guy carrier with service-tier pricing and conditional PUDO locker capture.]]></description>
+  <author><![CDATA[Kaziara Solutions]]></author>
+  <tab><![CDATA[shipping_logistics]]></tab>
+  <is_configurable>0</is_configurable>
+  <need_instance>0</need_instance>
+</module>
